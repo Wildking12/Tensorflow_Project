@@ -7,3 +7,5 @@ Repository for learning Tensorflow
  -  freecodecamp Youtube channel: https://www.youtube.com/c/Freecodecamp/playlists?view=1&sort=dd&shelf_id=0
  -  freecodecamp website(interactive courses and projects): https://www.freecodecamp.org/learn
  
+ 
+ Moin 
